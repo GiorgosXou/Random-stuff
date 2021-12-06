@@ -17,3 +17,8 @@
 
 
 ![GitHub-Mark-Light](./w.png#gh-dark-mode-only)![GitHub-Mark-Dark ](./b.png#gh-light-mode-only)
+
+
+
+![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-light-mode-only)
+![GitHub-Mark-Dark ](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/b.png#gh-dark-mode-only)
