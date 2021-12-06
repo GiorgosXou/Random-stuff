@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./b1.png#gh-light-mode-only" height="300" width="300"/>
-    <img src="./w1.png#gh-dark-mode-only" height="300" width="300"/>
+    <img src="./b2.png#gh-light-mode-only" height="300" width="1080"/>
+    <img src="./w2.png#gh-dark-mode-only" height="300" width="1080"/>
   </a>
 </p>
 
