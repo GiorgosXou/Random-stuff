@@ -3,7 +3,7 @@ last update : 6/12/2021
 
 * ***StackOverflow:***
 * * ***Random:***
-* * * Necessary [images][1] for "[Changing README.md image based on theme][2]"
+* * * Necessary [images][1] for *"[Changing README.md image dynamically based on theme][2]"*
 
 
 
