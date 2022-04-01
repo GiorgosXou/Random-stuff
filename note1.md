@@ -66,7 +66,7 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * [exurb1a](https://www.youtube.com/c/Exurb1a)
 
 
-# Videos:
+## Videos:
 * ***Some intresting Videos realated to:***
 * * ***Podcasts:***
 * * * [Albert Bourla: Pfizer CEO | Lex Fridman Podcast #249](https://www.youtube.com/watch?v=Z_LhPMhkEdw)
