@@ -88,3 +88,6 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * ***Programming:***
 * * * [StackOverflow](https://stackoverflow.com/)
 * * * [GitHub](https://github.com/) 
+
+# Outro
+This is an outro I had no time to complete.  
