@@ -12,7 +12,7 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * * * * [Computerphile](https://www.youtube.com/user/Computerphile)
 * * * ***Programming:***
-* * * * ***Tuttorials:***
+* * * * ***Tutorials:***
 * * * * * [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * * * * * [Fireship](https://www.youtube.com/c/Fireship)
 * * * * ***Random:***
