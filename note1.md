@@ -1,11 +1,11 @@
-Last update : 1/4/2022 21:31 ***(early release)***
+Last update : 1/4/2022 22:14 ***(EARLY RELEASE)***
 
 # Intro 
 This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting [...]   
    
 
-# Resources
-## Videos & Channels:
+# Resources:
+## Channels:
 * ***YouTube Channels (mainly) related to:***
 * * ***Computers:***
 * * * ***General:***
@@ -13,6 +13,7 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * [Computerphile](https://www.youtube.com/user/Computerphile)
 * * * ***Programming:***
 * * * * ***Tuttorials:***
+* * * * * [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * * * * * [Fireship](https://www.youtube.com/c/Fireship)
 * * * * ***Random:***
 * * * * * [TsodingDaily](https://www.youtube.com/c/TsodingDaily)
@@ -64,10 +65,23 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * ***Category type 2:***
 * * * * [exurb1a](https://www.youtube.com/c/Exurb1a)
 
-* ***Some Videos from the channels above:***
-* * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk "Channel: 3Blue1Brown") 
-* * [Growing Human Neurons Connected to a Computer](https://www.youtube.com/watch?v=V2YDApNRK3g "Channel: The Thought Emporium")
 
+# Videos:
+* ***Some intresting Videos realated to:***
+* * ***Podcasts:***
+* * * [Albert Bourla: Pfizer CEO | Lex Fridman Podcast #249](https://www.youtube.com/watch?v=Z_LhPMhkEdw)
+* * ***Linux:***
+* * * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
+* * ***Neural Networks:***
+* * * ***Entertainment:***
+* * * * [AlphaGo - The Movie | Full award-winning documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+* * * ***Non-Artificial:***
+* * * * [Growing Human Neurons Connected to a Computer](https://www.youtube.com/watch?v=V2YDApNRK3g "Channel: The Thought Emporium")
+* * * ***Artificial:***
+* * * * [This Curious AI Beats Many Games...and Gets Addicted to the TV](https://www.youtube.com/watch?v=fzuYEStsQxc)
+* * * * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk "Channel: 3Blue1Brown") 
+* * * ***Both Non and Artificial:***
+* * * * [Mind Reading For Brain-To-Text Communication! 🧠](https://www.youtube.com/watch?v=IUg-t609byg "Channel: TwoMinutePapers")
 
 ## Sites:
 * ***Sites related to:*** 
