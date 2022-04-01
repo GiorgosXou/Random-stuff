@@ -1,7 +1,7 @@
 Last update : 1/4/2022 22:14 ***(EARLY RELEASE)***
 
 # Intro 
-This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting [...]   
+This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting for the specific purpose of recommendation [...]   
    
 
 # Resources:
