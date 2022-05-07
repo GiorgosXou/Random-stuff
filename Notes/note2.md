@@ -1,5 +1,5 @@
 # Playing live audio with python [7-5-2022]
-[live_audio_player.py](\..\Programming\Python\live_audio_player.py) | An *(semi\kind-of working)* attempt of streaming audio in a pythonic(?) way and without the use of vlc module [...]
+[live_audio_player.py](https://github.com/GiorgosXou/Random-stuff/blob/main/Programming/Python/live_audio_player.py) | An *(semi\kind-of working)* attempt of streaming audio in a pythonic(?) way and without the use of vlc module [...]
 ```python
 import requests, pyaudio, io
 from pydub import AudioSegment
