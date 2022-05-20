@@ -4,9 +4,9 @@ Last update : 20/5/2022
 2. Run `nvim` on your terminal, execute the command `:echo stdpath('config')` *(to get `NVIM`'s configuration path & then exit)*
 3. if there's no `nvim` folder inside the ^`.config` path, create one
 4. [Clone the repository](https://github.com/AstroNvim/AstroNvim#clone-the-repository) to that exact path.
-5. Install [Nerdfonts](https://youtu.be/5-aK2_WwrmM?t=85)
-6. *(Optional)* [create a user profile under that path](https://astronvim.github.io/configuration/manage_user_config)
-7. *(Optional)* [I suggest you to install vim-plug](https://github.com/junegunn/vim-plug)
+5. *(Optional)* [create a user profile under that path](https://astronvim.github.io/configuration/manage_user_config)
+6. *(Optional)* [I suggest you to install vim-plug](https://github.com/junegunn/vim-plug)
+7. Install [Nerdfonts](https://youtu.be/5-aK2_WwrmM?t=85)
 8. and you are done.
 
 
