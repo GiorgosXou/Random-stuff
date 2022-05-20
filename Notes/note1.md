@@ -1,4 +1,4 @@
-Last update : 1/4/2022 22:24 ***(EARLY RELEASE)***
+Last update : 20/5/2022 ***(EARLY RELEASE)***
 
 # Intro 
 This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting for the specific purpose of recommendation [...]   
@@ -15,9 +15,14 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * ***Tutorials:***
 * * * * * [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * * * * * [Fireship](https://www.youtube.com/c/Fireship)
-* * * * ***Random:***
+* * * * ***{Uncategorised}:***
+* * * * * [DesignCourse](https://www.youtube.com/c/DesignCourse/about)
 * * * * * [TsodingDaily](https://www.youtube.com/c/TsodingDaily)
 * * * * * [Bisqwit](https://www.youtube.com/c/Bisqwit/)
+* * * ***Neural Networks:***
+* * * * [giant_neural_network](https://www.youtube.com/c/giantneuralnetwork)
+* * * ***Photoshop:***
+* * * * [PiXimperfect](https://www.youtube.com/c/PiXimperfect)
 * * ***Mathematics:***  
 * * * [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 * * * [Numberphile](https://www.youtube.com/c/numberphile)
@@ -31,8 +36,18 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * ***Electronics:***
 * * * [ElectroBOOM](https://www.youtube.com/c/Electroboom)
 * * * [bigclivedotcom](https://www.youtube.com/c/Bigclive)
+* * * [GreatScott!](https://www.youtube.com/c/greatscottlab)
+* * * [Electronoobs](https://www.youtube.com/c/ELECTRONOOBS)
 * * ***Psychology:***
 * * * [JCS - Criminal Psychology](https://www.youtube.com/c/JCSCriminalPsychology)
+* * ***DRUGS:***
+* * * [The Drug Classroom](https://www.youtube.com/c/TheDrugClassroom/)
+* * * [Psyched Substance](https://www.youtube.com/c/PsychedSubstanceChannel)
+* * * [Drugslab](https://www.youtube.com/c/Drugslab)
+* * ***DIY:***
+* * * [Tech Ingredients](https://www.youtube.com/c/TechIngredients)
+* * * [Applied Science](https://www.youtube.com/c/AppliedScience)
+* * * [The Thought Emporium](https://www.youtube.com/c/thethoughtemporium)
 * * ***Astrophysics:***
 * * * [PBS Space Time](https://www.youtube.com/pbsspacetime/c)
 * * ***Zoology:***
@@ -49,21 +64,24 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 * * ***Food:***
 * * * [Bon Appétit](https://www.youtube.com/c/bonappetit)
+* * * [Best Ever Food Review Show](https://www.youtube.com/c/BestEverFoodReviewShow) <!-- clickbaity? anyways...-->
+* * **Human *Disabilities:***
+* * * [Special Books by Special Kids](https://www.youtube.com/c/SpecialBooksbySpecialKids/)
 * * ***Entertainment\News:***
+* * * ***(Higly Educational):***
+* * * * [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell)
 * * * ***Technology:***
-* * * * [motherboard](https://www.youtube.com/motherboard/)
+* * * * * [motherboard](https://www.youtube.com/motherboard/)
+* * * ***Short Films:***
+* * * * [Omeleto](https://www.youtube.com/c/Omeleto)
+* * * ***{Uncategorised}:***
+* * * * [SmarterEveryDay](https://www.youtube.com/c/smartereveryday)
+* * * * [Be Smart](https://www.youtube.com/c/itsokaytobesmart)
+* * * * [InternetHistorian](https://www.youtube.com/c/InternetHistorian) <!-- I might change this position-->
+* * * * [exurb1a](https://www.youtube.com/c/Exurb1a)
 * * * ***General:***
 * * * * [Daily Dose Of Internet](https://www.youtube.com/c/DailyDoseOfInternet)
 * * * * [The Infographics Show](https://www.youtube.com/c/TheInfographicsShowOFFICIAL)
-* * * * [InternetHistorian](https://www.youtube.com/c/InternetHistorian) <!-- I might change this position-->
-* * ***General:***
-* * * ***Category type 0:***
-* * * * [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell)
-* * * ***Category type 1:***
-* * * * [Applied Science](https://www.youtube.com/c/AppliedScience)
-* * * * [The Thought Emporium](https://www.youtube.com/c/thethoughtemporium)
-* * * ***Category type 2:***
-* * * * [exurb1a](https://www.youtube.com/c/Exurb1a)
 
 
 ## Videos:

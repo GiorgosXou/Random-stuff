@@ -1,10 +1,13 @@
 # Random Stuff, related to:
-`last update : 7/5/2022 13:51`
+`last update : 20/5/2022`
 
 * ***Notes***
 * * ***Other:***
 * * * [Resources for recommendation purposes][3]
 * * ***Programming:***
+* * * ***Editors:***
+* * * * ***NeoVIM***
+* * * * * [How to set-up AstroNvim on Windows][5]
 * * * ***Python:***
 * * * * [Streaming\Playing live audio][4]
 * * * ***StackOverflow:***
@@ -16,3 +19,4 @@
 [2]: https://stackoverflow.com/a/70200610/11465149
 [3]: ./Notes/note1.md
 [4]: ./Notes/note2.md
+[5]: ./Notes/note3.md
