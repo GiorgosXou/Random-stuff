@@ -15,7 +15,7 @@
 * * * * * ***Random:***
 * * * * * * Necessary [images][1] for *"[Changing README.md image dynamically based on theme][2]"*
 
-[1]: ./Programming/StackOverflow/Answers/70200610_11465149
+[1]: ./Programming/StackOverflow/Answers/70200610_11465149/README.md
 [2]: https://stackoverflow.com/a/70200610/11465149
 [3]: ./Notes/note1.md
 [4]: ./Notes/note2.md
