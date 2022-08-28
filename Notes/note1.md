@@ -1,4 +1,4 @@
-Last update : 20/5/2022 ***(EARLY RELEASE)***
+Last update : 28/8/2022 ***(EARLY RELEASE)***
 
 # Intro 
 This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting for the specific purpose of recommendation [...]   
