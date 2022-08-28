@@ -15,6 +15,8 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * ***Tutorials:***
 * * * * * [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * * * * * [Fireship](https://www.youtube.com/c/Fireship)
+* * * * ***Full stack development:***
+* * * * * [DesignCourse](https://www.youtube.com/c/DesignCourse)
 * * * * ***{Uncategorised}:***
 * * * * * [DesignCourse](https://www.youtube.com/c/DesignCourse/about)
 * * * * * [TsodingDaily](https://www.youtube.com/c/TsodingDaily)
@@ -26,6 +28,7 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * ***Mathematics:***  
 * * * [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 * * * [Numberphile](https://www.youtube.com/c/numberphile)
+* * * [Inigo Quilez](https://www.youtube.com/c/InigoQuilez)
 * * * [Mathologer](https://www.youtube.com/c/Mathologer)
 * * * [NancyPi](https://www.youtube.com/c/NancyPi)
 * * ***Chemistry:***
@@ -36,8 +39,8 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * ***Electronics:***
 * * * [ElectroBOOM](https://www.youtube.com/c/Electroboom)
 * * * [bigclivedotcom](https://www.youtube.com/c/Bigclive)
-* * * [GreatScott!](https://www.youtube.com/c/greatscottlab)
 * * * [Electronoobs](https://www.youtube.com/c/ELECTRONOOBS)
+* * * [GreatScott!](https://www.youtube.com/c/greatscottlab)
 * * ***Psychology:***
 * * * [JCS - Criminal Psychology](https://www.youtube.com/c/JCSCriminalPsychology)
 * * ***DRUGS:***
@@ -67,17 +70,21 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * [Best Ever Food Review Show](https://www.youtube.com/c/BestEverFoodReviewShow) <!-- clickbaity? anyways...-->
 * * **Human *Disabilities:***
 * * * [Special Books by Special Kids](https://www.youtube.com/c/SpecialBooksbySpecialKids/)
+* * ***Philanthropy***
+* * * [BI Phakathi](https://www.youtube.com/c/BIPhakathi)
 * * ***Entertainment\News:***
 * * * ***(Higly Educational):***
 * * * * [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell)
 * * * ***Technology:***
-* * * * * [motherboard](https://www.youtube.com/motherboard/)
+* * * * [motherboard](https://www.youtube.com/motherboard/)
 * * * ***Short Films:***
 * * * * [Omeleto](https://www.youtube.com/c/Omeleto)
+* * * * ***SCI-FI:***
+* * * * * [DUST](https://www.youtube.com/c/watchdust)
 * * * ***{Uncategorised}:***
 * * * * [SmarterEveryDay](https://www.youtube.com/c/smartereveryday)
-* * * * [Be Smart](https://www.youtube.com/c/itsokaytobesmart)
 * * * * [InternetHistorian](https://www.youtube.com/c/InternetHistorian) <!-- I might change this position-->
+* * * * [Be Smart](https://www.youtube.com/c/itsokaytobesmart)
 * * * * [exurb1a](https://www.youtube.com/c/Exurb1a)
 * * * ***General:***
 * * * * [Daily Dose Of Internet](https://www.youtube.com/c/DailyDoseOfInternet)
@@ -100,6 +107,14 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk "Channel: 3Blue1Brown") 
 * * * ***Both Non and Artificial:***
 * * * * [Mind Reading For Brain-To-Text Communication! 🧠](https://www.youtube.com/watch?v=IUg-t609byg "Channel: TwoMinutePapers")
+* * ***Hacking:***
+* * * [How I hacked a hardware crypto wallet and recovered $2 million](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+* * * [Hacking a Samsung Galaxy for $6,000,000!?](https://www.youtube.com/watch?v=icBD5PiyoyI)
+* * * [Discover Vulnerabilities in Intel CPUs!](https://www.youtube.com/watch?v=x_R1DeZxGc0)
+* * ***Game Development:***
+* * * [kkrieger: Making an Impossible FPS | Nostalgia Nerd](https://www.youtube.com/watch?v=bD1wWY1YD-M)
+
+
 
 ## Sites:
 * ***Sites related to:*** 
