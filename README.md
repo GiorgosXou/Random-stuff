@@ -1,5 +1,5 @@
 # Random Stuff, related to:
-`last update : 28/8/2022`
+`last update : 31/8/2022`
 
 * ***Notes***
 * * ***Other:***
@@ -13,7 +13,7 @@
 * * * ***StackOverflow:***
 * * * * ***Answers:***
 * * * * * ***Random:***
-* * * * * * Necessary [images][1] for *"[Changing README.md image dynamically based on theme][2]"*
+* * * * * * Necessary [images & stuff][1] for *"[Changing README.md image dynamically based on theme][2]"*
 
 [1]: ./Programming/StackOverflow/Answers/70200610_11465149/README.md
 [2]: https://stackoverflow.com/a/70200610/11465149
