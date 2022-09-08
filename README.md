@@ -9,7 +9,8 @@
 * * * * ***NeoVIM***
 * * * * * [How to set-up AstroNvim on Windows][5]
 * * * ***Python:***
-* * * * [Streaming\Playing live audio][4]
+* * * * [[ATTEMPT] Streaming\Playing live audio][4]
+* * * * [Silly Reddit-user scraper][6] <sup>[credits][7]</spb>
 * * * ***StackOverflow:***
 * * * * ***Answers:***
 * * * * * ***Random:***
@@ -20,3 +21,5 @@
 [3]: ./Notes/note1.md
 [4]: ./Notes/note2.md
 [5]: ./Notes/note3.md
+[6]: ./Programming/Python/reddit_scaper.py 
+[7]: https://github.com/nicholasserra/reddit-simple-media-scrape/blob/master/reddit_scrape.py
