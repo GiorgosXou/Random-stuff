@@ -10,7 +10,7 @@
 * * * * * [How to set-up AstroNvim on Windows][5]
 * * * ***Python:***
 * * * * [[ATTEMPT] Streaming\Playing live audio][4]
-* * * * [Silly Reddit-user scraper][6] <sup>[credits][7]</spb>
+* * * * [Silly Reddit-user scraper][6] <sup>***[credits][7]***</spb>
 * * * ***StackOverflow:***
 * * * * ***Answers:***
 * * * * * ***Random:***
