@@ -1,4 +1,4 @@
-Last update : 31/8/2022 ***(EARLY RELEASE)***
+Last update : 17/9/2022 ***(EARLY RELEASE)***
 
 # Intro 
 This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting for the specific purpose of recommendation [...]   
@@ -51,6 +51,7 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * [Tech Ingredients](https://www.youtube.com/c/TechIngredients)
 * * * [Applied Science](https://www.youtube.com/c/AppliedScience)
 * * * [The Thought Emporium](https://www.youtube.com/c/thethoughtemporium)
+* * * [Stuff Made Here](https://www.youtube.com/c/StuffMadeHere/videos) <!-- Kinda i guess? -->
 * * ***Astrophysics:***
 * * * [PBS Space Time](https://www.youtube.com/pbsspacetime/c)
 * * ***Zoology:***
@@ -70,6 +71,10 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * [Best Ever Food Review Show](https://www.youtube.com/c/BestEverFoodReviewShow) <!-- clickbaity? anyways...-->
 * * * ***History:***
 * * * * [Tasting History with Max Miller](https://www.youtube.com/c/TastingHistory)
+* * ***Beverages:***
+* * * ***Wine:***
+* * * * [wineking](https://www.youtube.com/c/wineking)
+* * * * [Konstantin Baum - Master of Wine](https://www.youtube.com/c/KonstantinBaumMasterofWine)
 * * **Human *Disabilities:***
 * * * [Special Books by Special Kids](https://www.youtube.com/c/SpecialBooksbySpecialKids/)
 * * ***Philanthropy***
