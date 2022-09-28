@@ -4,7 +4,7 @@
 If you tried `LspInstall marksman` and had both or one of those issues, above:
 ![Failed to fetch]( ../Images/img1.jpg )
 ![Failed link target marksman.exe]( ../Images/img2.jpg )
- Then here's a way to make it work.
+Then here's a way to make it work, by installing it manually.
 
 
 # Steps
