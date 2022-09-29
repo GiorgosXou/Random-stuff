@@ -1,4 +1,4 @@
-Last update : 17/9/2022 ***(EARLY RELEASE)***
+Last update : 29/9/2022 ***(EARLY RELEASE)***
 
 # Intro 
 This is just a "random" note *(in the form of a Markdown file)* meant to be used just for recommendation purposes. Contains resources like videos and etc. that I personally find intresting for the specific purpose of recommendation [...]   
@@ -47,6 +47,15 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * [The Drug Classroom](https://www.youtube.com/c/TheDrugClassroom/)
 * * * [Psyched Substance](https://www.youtube.com/c/PsychedSubstanceChannel)
 * * * [Drugslab](https://www.youtube.com/c/Drugslab)
+* * ***Medicine:*** 
+* * * ***General:***
+* * * * [Medlife Crisis](https://www.youtube.com/c/MedlifeCrisis)
+* * * ***Surgery:***
+* * * * [MicroNeuroSurgeryOrg](https://www.youtube.com/c/MicroNeuroSurgeryOrg)
+* * * ***Dermatology:***
+* * * * [Dr. Sandra Lee (aka Dr. Pimple Popper)](https://www.youtube.com/c/DrSandraLee)
+* * * ***Podiatry:***
+* * * * [Healthy Feet Podiatry](https://www.youtube.com/user/healthyfeetpodiatry)
 * * ***DIY:***
 * * * [Tech Ingredients](https://www.youtube.com/c/TechIngredients)
 * * * [Applied Science](https://www.youtube.com/c/AppliedScience)
