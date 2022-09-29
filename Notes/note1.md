@@ -86,6 +86,8 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * * * [Konstantin Baum - Master of Wine](https://www.youtube.com/c/KonstantinBaumMasterofWine)
 * * **Human *Disabilities:***
 * * * [Special Books by Special Kids](https://www.youtube.com/c/SpecialBooksbySpecialKids/)
+* * ***Homelessness:***
+* * * [Invisible People](https://www.youtube.com/c/InvisiblePeople)
 * * ***Philanthropy***
 * * * [BI Phakathi](https://www.youtube.com/c/BIPhakathi)
 * * ***Entertainment\News:***
