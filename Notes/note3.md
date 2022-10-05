@@ -12,3 +12,6 @@ Last update : 21/6/2022
 *Very briefly and not that well (but nvm for now) documented\explained*
 
 
+if `aerial.nvim` fail to get updated when `PackerSync`, go to `%AppData%\..\Local\nvim-data\site\pack\packer\opt\` delete `aerial.nvim` folder and then open a terminal at the `...\opt\` directory and ` git clone https://github.com/stevearc/aerial.nvim` manually
+
+
