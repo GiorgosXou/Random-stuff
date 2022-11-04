@@ -4,6 +4,8 @@
 * ***Notes***
 * * ***Other:***
 * * * [Resources for recommendation purposes][3]
+* * ***TERMUX:***
+* * * [Install Weechat-Matrix][9]
 * * ***Programming:***
 * * * ***Editors:***
 * * * * ***NeoVIM:***
@@ -29,3 +31,4 @@
 [6]: ./Programming/Python/reddit_scaper.py 
 [7]: https://github.com/nicholasserra/reddit-simple-media-scrape/blob/master/reddit_scrape.py
 [8]: ./Notes/note5.md
+[9]: ./Notes/note6.md
