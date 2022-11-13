@@ -14,7 +14,7 @@
 * * * * * * * [How to set-up AstroNvim][5]
 * * * * * * * [LspInstall marksman][8]
 * * * * * ***FreeBSD:***
-* * * * * * [Build and\\or Install lua-language-server for use through mason.nvim][10]
+* * * * * * [Manual Build and\\or Install of lua-language-server for use through mason.nvim][10]
 * * * ***Python:***
 * * * * [[ATTEMPT] Streaming\Playing live audio][4]
 * * * * [Silly Reddit-user scraper][6] <sup>***[credits][7]***</spb>
