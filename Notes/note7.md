@@ -1,4 +1,5 @@
 `last update : 13/11/2022`
+# ⚠️ ACTUALLY I WAS WRONG LOL, IT DOESN'T WORK AS I EXPECTED IT⚠️
 
 # Intro
 This is a step-by-step way on how to manually build and\or install lua-language-server for use through mason.nvim
