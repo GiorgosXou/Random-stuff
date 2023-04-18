@@ -1,0 +1,12 @@
+[UNINSTALL]
+com.android.email # email
+com.google.android.apps.docs # Docs 
+[INSTALL]
+com.aa.mynotes
+com.aa.mynotes
+[SHELL]
+pm path
+pm path
+getprop ro.product.name
+pm install
+test
