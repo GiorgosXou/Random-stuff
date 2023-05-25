@@ -1,3 +1,7 @@
+[SUMMARY]
+- Installs YYY
+- Uninstalls XXX
+- Testing test test
 [UNINSTALL]
 com.android.email # email
 com.google.android.apps.docs # Docs 
