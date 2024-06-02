@@ -60,6 +60,7 @@ export PATH="$HOME/.local/bin:$PATH"
 - ***Tools:*** 
 - - ***Other:***
 - - - ✨ [android-unpinner](https://github.com/mitmproxy/android-unpinner) + [FIX?](https://github.com/mitmproxy/android-unpinner/discussions/26#discussioncomment-9528502)
+- - - jadx
 - - ***Interception:***
 - - - [apk-mitm](https://github.com/shroudedcode/apk-mitm/)
 - - - `sudo pacman -S mitmproxy`
