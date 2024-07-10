@@ -5,6 +5,7 @@
 - - ***Other:***
 - - - [Reverse Engineering APKs][11]
 - - - [Resources for recommendation purposes][3]
+- - - [Donation QRs][12]
 - - ***TERMUX:***
 - - - [Install Weechat-Matrix][9]
 - - ***Programming:***
@@ -37,5 +38,6 @@
 [9]:  ./Notes/note6.md
 [10]: ./Notes/note7.md
 [11]: ./Notes/note8.md
+[12]: ./Notes/note9.md
 
 <!--Just testing git-->
