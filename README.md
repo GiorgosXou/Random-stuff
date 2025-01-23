@@ -3,11 +3,14 @@
 
 - ***Notes***
 - - ***Other:***
-- - - [Reverse Engineering APKs][11]
 - - - [Resources for recommendation purposes][3]
 - - - [Donation QRs][12]
-- - ***TERMUX:***
-- - - [Install Weechat-Matrix][9]
+- - ***Android:***
+- - - [Reverse Engineering APKs][11]
+- - - ***LinageOS:***
+- - - - [Galaxy S7][13]
+- - - ***TERMUX:***
+- - - - [Install Weechat-Matrix][9]
 - - ***Programming:***
 - - - ***Editors:***
 - - - - ***NeoVIM:***
@@ -39,5 +42,6 @@
 [10]: ./Notes/note7.md
 [11]: ./Notes/note8.md
 [12]: ./Notes/note9.md
+[13]: ./Notes/note10.md
 
 <!--Just testing git again-->
