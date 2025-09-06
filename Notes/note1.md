@@ -50,9 +50,11 @@ This is just a "random" note *(in the form of a Markdown file)* meant to be used
 * * ***Medicine:*** 
 * * * ***General:***
 * * * * [Medlife Crisis](https://www.youtube.com/c/MedlifeCrisis)
-* * * ***Surgery:***
+* * * ***Mostly Brain Surgery:***
 * * * * [MicroNeuroSurgeryOrg](https://www.youtube.com/c/MicroNeuroSurgeryOrg)
-- - - - [Malek Racy - orthopaedic surgeon](https://www.youtube.com/@MalekRacy)
+* * * ***Orthopaedics, traumatology etc:***
+* * * * [Malek Racy - orthopaedic surgeon](https://www.youtube.com/@MalekRacy)
+* * * * [Osgenic](https://www.youtube.com/@Osgenic-medical)
 * * * ***Dermatology:***
 * * * * [Dr. Sandra Lee (aka Dr. Pimple Popper)](https://www.youtube.com/c/DrSandraLee)
 * * * ***Podiatry:***
