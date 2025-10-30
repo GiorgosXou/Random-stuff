@@ -1,5 +1,5 @@
 # Random Stuff, related to:
-`last update : 31/8/2022`
+`last update : 30/10/2025`
 
 - ***Notes***
 - - ***Other:***
@@ -47,4 +47,5 @@
 [14]: ./Notes/note11.md
 
 <!--Just testing git again-->
+
 
