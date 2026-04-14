@@ -14,6 +14,7 @@
 - - - - [Install Weechat-Matrix][9]
 - - ***Programming:***
 - - - [Building Ncurses][15]
+- - - ~[RISCV - CH32VXXX Chips][16]~
 - - - ***Editors:***
 - - - - ***NeoVIM:***
 - - - - - ***AstroNvim:***
@@ -47,6 +48,7 @@
 [13]: ./Notes/note10.md
 [14]: ./Notes/note11.md
 [15]: ./Notes/note13.md
+[16]: ./Notes/note14.md 'Setup and etc.'
 
 <!--Just testing git again-->
 
