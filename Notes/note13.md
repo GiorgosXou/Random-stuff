@@ -43,6 +43,13 @@ make -j$(nproc)
 make install
 ```
 
+> [!TIP]
+> For clang autocomplete in neovim use:
+> ```
+> bear -- make -j$(nproc)
+> bear --append -- make install
+> ```
+
 
 # Usage
 
